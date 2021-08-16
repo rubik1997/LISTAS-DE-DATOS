@@ -1,4 +1,4 @@
-Energia del ion kev	Perdidas de energia kev/µm
+Energia Perdidas
 10	7.23E+01
 11	7.61E+01
 12	7.98E+01
@@ -78,3 +78,4 @@ Energia del ion kev	Perdidas de energia kev/µm
 8000	2.27E+02
 9000	2.12E+02
 10000	1.98E+02
+
